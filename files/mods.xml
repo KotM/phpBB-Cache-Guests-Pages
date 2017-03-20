@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods>
+	<cache_guests_pages>
+		<author>Kot Matroskin</author>
+    <title lang="en">Cache guests &amp; bots pages</title>
+    <description lang="en">Provides ability to cache content of the pages viewed by guests and bots.</description>
+		<download>http://scooterclub.by/kot/cache_guests_pages-1.1.2.zip</download>
+		<announcement>https://www.phpbb.com/community/viewtopic.php?f=70&amp;t=2171755</announcement>
+		<mod_version>
+			<major>1</major>
+			<minor>1</minor>
+			<revision>2</revision>
+			<release></release>
+		</mod_version>
+		<installation>
+			<level>easy</level>
+			<time>120</time>
+			<target-version>
+				<target-primary>3.0.11</target-primary>
+				<target-major allow="exact">3</target-major>
+				<target-minor allow="exact">0</target-minor>
+			</target-version>
+		</installation>
+	</cache_guests_pages>
+</mods>
